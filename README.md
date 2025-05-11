@@ -5,14 +5,14 @@ Pr0tect your html code by renaming HTML, JS, and CSS classes to randomized, maki
 - Normal HTML file :
 ```html
 <div class="card w-50">
-  <div class="card-body">Hello World</div>
+  <div class="card-body">Kaito Coding</div>
 </div>
 ```
 
 - Obfuscated HTML file :
 ```html
 <div class="gywdan tgmfkg">
-  <div class=emasfm>Hello World</div>
+  <div class=emasfm>Kaito Coding</div>
 </div>
 ```
 
