@@ -19,7 +19,8 @@ Pr0tect your html code by renaming HTML, JS, and CSS classes to randomized, maki
 ###  Installation & Usage 
 
 ```sh
-# clone
+# installation
 git clone https://github.com/kaitolegion/html-obfu; cd html-obfu
+# usage
 python3 obfu.py --htmlpath="project/*.html" --csspath="project/*.css" --jspath="project/*.js"
 ```
